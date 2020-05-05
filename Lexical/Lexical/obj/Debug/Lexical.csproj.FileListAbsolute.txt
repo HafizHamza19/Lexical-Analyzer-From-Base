@@ -1,0 +1,18 @@
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Lexical\Lexical\bin\Debug\Lexical.exe.config
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Lexical\Lexical\bin\Debug\Lexical.exe
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Lexical\Lexical\bin\Debug\Lexical.pdb
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Lexical\Lexical\obj\Debug\Lexical.csprojResolveAssemblyReference.cache
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Lexical\Lexical\obj\Debug\Lexical.Form1.resources
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Lexical\Lexical\obj\Debug\Lexical.Properties.Resources.resources
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Lexical\Lexical\obj\Debug\Lexical.csproj.GenerateResource.Cache
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Lexical\Lexical\obj\Debug\Lexical.exe
+c:\users\hafizhamza\documents\visual studio 2012\Projects\Lexical\Lexical\obj\Debug\Lexical.pdb
+D:\H.HAMZA\5th Semester\Projects 5th Semester\Lexical\Lexical\bin\Debug\Lexical.exe.config
+D:\H.HAMZA\5th Semester\Projects 5th Semester\Lexical\Lexical\obj\Debug\Lexical.exe
+D:\H.HAMZA\5th Semester\Projects 5th Semester\Lexical\Lexical\obj\Debug\Lexical.pdb
+D:\H.HAMZA\5th Semester\Projects 5th Semester\Lexical\Lexical\bin\Debug\Lexical.exe
+D:\H.HAMZA\5th Semester\Projects 5th Semester\Lexical\Lexical\bin\Debug\Lexical.pdb
+D:\H.HAMZA\5th Semester\Projects 5th Semester\Lexical\Lexical\obj\Debug\Lexical.csprojResolveAssemblyReference.cache
+D:\H.HAMZA\5th Semester\Projects 5th Semester\Lexical\Lexical\obj\Debug\Lexical.Form1.resources
+D:\H.HAMZA\5th Semester\Projects 5th Semester\Lexical\Lexical\obj\Debug\Lexical.Properties.Resources.resources
+D:\H.HAMZA\5th Semester\Projects 5th Semester\Lexical\Lexical\obj\Debug\Lexical.csproj.GenerateResource.Cache
